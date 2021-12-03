@@ -6,8 +6,8 @@
 
 Ok, Let's go :).<img align="left" alt="naruto" width="26px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
 - 🐭 I'm a Founder Of Safaret Land.
-- ♞ I'm playing chess and sometimes I'm playing chess.
-- 🦊 I'm watching anime and sometimes I'm watching anime.
+- ♞ I'm playing chess and sometimes playing chess.
+- 🦊 I'm watching anime and sometimes watching anime.
 - 👋 byeBye.
 
 ### let's Hangout 💬 :
