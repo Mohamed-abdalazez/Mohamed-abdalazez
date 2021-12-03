@@ -1,7 +1,11 @@
 ### Hi there, I'm Mohamed And Sometimes Abdalazez 👋 
 
 
+
 ## Do you want to know more?
+
+Ok, Lets go :).
+
 
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes I'm playing chess.
@@ -10,6 +14,8 @@
 
 ### let's Hangout 💬 :
 
+<img align="left" alt="naruto" width="26px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
+<br/>
 [<img align="left" alt="Mohamed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [<img align="left" alt="Mohamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
