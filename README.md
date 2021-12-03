@@ -4,7 +4,7 @@
 
 ## Do you want to know more?
 
-<img align="left" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
+<img align="middle" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
 
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes playing chess.
