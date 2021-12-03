@@ -8,7 +8,7 @@
 - 🦊 I'm watching anime and sometimes I'm watching anime.
 - 👋 byeBye.
 
-### let's Hangout:
+### let's Hangout <img align="left" alt="Massage" width="26px" src="https://i.postimg.cc/25Cp8kb3/icons8-chat-message.gif" /> :
 
 [<img align="left" alt="Mohamed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
