@@ -4,7 +4,7 @@
 
 ## Do you want to know more?
 Ok, Let's go :).<br/>
-<img align="" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
+<img align="meddle" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
 
 
 - 🐭 I'm a Founder Of Safaret Land.
