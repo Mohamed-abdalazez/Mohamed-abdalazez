@@ -4,8 +4,8 @@
 ## Do you want to know more?
 
 - 🐭 I'm a Founder Of Safaret Land.
-- ♞ I play chess and sometimes I play chess.
-- 🦊 I watch anime and sometimes I watch anime.
+- ♞ I'm playing chess and sometimes I'm playing chess.
+- 🦊 I'm watching anime and sometimes I'm watching anime.
 - 👋 byeBye.
 
 ### let's Hangout:
