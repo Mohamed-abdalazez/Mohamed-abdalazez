@@ -3,8 +3,8 @@
 
 
 ## Do you want to know more?
-Ok, Let's go :).
-<img align="meddle" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
+Ok, Let's go :).<br/>
+<img align="left" alt="naruto" width="60px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
