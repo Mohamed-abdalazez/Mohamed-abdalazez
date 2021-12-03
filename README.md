@@ -4,7 +4,7 @@
 
 ## Do you want to know more?
 
-Ok, Lets go :).
+Ok, Lets go :).<img align="left" alt="naruto" width="26px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" /><br/><br/>
 
 
 - 🐭 I'm a Founder Of Safaret Land.
@@ -14,8 +14,6 @@ Ok, Lets go :).
 
 ### let's Hangout 💬 :
 
-<img align="left" alt="naruto" width="26px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
-<br/>
 [<img align="left" alt="Mohamed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [<img align="left" alt="Mohamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
