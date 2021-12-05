@@ -36,5 +36,5 @@ Ok, Let's go :).<br/>
 
 <br />
 
-[facebook]: https://www.facebook.com/mohamed.abdalazez.9678/, target="_blank"
-[linkedin]: https://www.linkedin.com/in/mohamed818/, target="_blank"
+[facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
+[linkedin]: https://www.linkedin.com/in/mohamed818/
