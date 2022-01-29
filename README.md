@@ -9,6 +9,7 @@ Ok, Let's go :).<br/>
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
 - 👋 byeBye.
+<img align="" alt="killua" width="60px" src="https://i.postimg.cc/tCnp6fqf/IKNm.gif" />
 
 ### Let's Hangout 💬 :
 
