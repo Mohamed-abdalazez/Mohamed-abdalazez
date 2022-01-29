@@ -9,7 +9,7 @@ Ok, Let's go :).<br/>
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
 - 👋 byeBye.
-<img align="" alt="killua" width="500px" src="https://i.postimg.cc/tCnp6fqf/IKNm.gif" />
+<img align="" alt="naruto's father" width="100px" src="https://i.postimg.cc/JhFWt5wm/PfjF.gif" />
 
 ### Let's Hangout 💬 :
 
