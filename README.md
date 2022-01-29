@@ -3,7 +3,7 @@
 
 
 ## Do you want to know more?
-# Ok, Let's go :).<br/>
+**Ok, Let's go :).**<br/>
 <img align="" alt="naruto" width="150px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes playing chess.
