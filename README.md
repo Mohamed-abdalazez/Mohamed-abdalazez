@@ -48,7 +48,6 @@
 <br \>
 <br \>
 <br \>
-![alt text](https://i.postimg.cc/NMb3JPvm/strategic-plan.png)
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
