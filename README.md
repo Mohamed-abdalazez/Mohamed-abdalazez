@@ -48,7 +48,7 @@
 <br \>
 <br \>
 <br \>
-[<img alt="Chess" width="40px" src="https://i.postimg.cc/NMb3JPvm/strategic-plan.png" />](https://www.chess.com/member/m-abdalazez)
+[<img alt="Chess" width="40px" src="https://i.postimg.cc/NMb3JPvm/strategic-plan.png" />](https://www.chess.com/member/m-abdalazez)]
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
