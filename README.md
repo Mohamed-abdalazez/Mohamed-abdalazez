@@ -49,8 +49,8 @@
 <br />
 <br />
 <br />
-[<img align="left" alt="Mohamed | Chess" width="50px" src="https://i.postimg.cc/NMb3JPvm/strategic-plan.png" />][Chess]
 
+[![](https://data.jsdelivr.com/v1/package/npm/chess.js/badge)](https://www.jsdelivr.com/package/npm/chess.js)
 
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
