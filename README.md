@@ -49,7 +49,6 @@
 <br />
 <br />
 <br />
-[<img align="left" alt="Mohamed | Chess" width="22px" src="https://i.postimg.cc/NMb3JPvm/strategic-plan.png" />][Chess]
 
 
 
