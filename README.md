@@ -47,7 +47,7 @@ Ask the Queen's permission first by clicking on it :D
 
 <img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/YqdJtFJz/chess-game.png" />
 
-[![chess](https://i.postimg.cc/G2fGddkQ/queen-1.png)](https://www.chess.com/member/m-abdalazez)
+[![chess](https://i.postimg.cc/rsKmy480/queen-2.png)](https://www.chess.com/member/m-abdalazez)
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
