@@ -43,7 +43,12 @@
 <br />
 
 <img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/YqdJtFJz/chess-game.png" />
-
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+![alt text](https://i.postimg.cc/NMb3JPvm/strategic-plan.png)
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
