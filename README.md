@@ -52,7 +52,7 @@ Ask the Queen's permission first by clicking on it :D
 <br />
 <br />
 
-### let's remember Uchiha Itachi
+### let's remember Uchiha Itachi :')
 
 <img align="" alt="Uchiha Itachi" width="150px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />
 
