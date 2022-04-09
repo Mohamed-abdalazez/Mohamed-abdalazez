@@ -43,7 +43,10 @@
 <br />
 
 <img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/YqdJtFJz/chess-game.png" />
+[<img align="left" alt="Mohamed | Chess" width="22px" src="https://i.postimg.cc/NMb3JPvm/strategic-plan.png" />][Chess]
+
 
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
+[Chess]: https://www.chess.com/member/m-abdalazez
