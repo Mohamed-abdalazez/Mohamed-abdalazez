@@ -49,13 +49,17 @@ Ask the Queen's permission first by clicking on it :D
 
 [![chess](https://i.postimg.cc/rsKmy480/queen-2.png)](https://www.chess.com/member/m-abdalazez)
 
-[facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
-[linkedin]: https://www.linkedin.com/in/mohamed818/
-[Chess]: https://www.chess.com/member/m-abdalazez
-
+<br />
+<br />
 ### let's remember Uchiha Itachi
 <br />
 <br />
 <img align="" alt="Uchiha Itachi" width="150px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />
+
+[facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
+[linkedin]: https://www.linkedin.com/in/mohamed818/
+[Chess]: https://www.chess.com/member/m-abdalazez
+
+
 
 
