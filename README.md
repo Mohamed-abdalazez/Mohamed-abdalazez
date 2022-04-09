@@ -57,13 +57,10 @@
 <img align="left" alt="C" width="26px" src="https://i.postimg.cc/8k7xHc3y/horse.png" />
 <img align="left" alt="C" width="26px" src="https://i.postimg.cc/0jjWXWcM/tabia.png" />
 
-
-
 <br />
-
-a <br />
-b <br />
-c
+a<br />
+b<br />
+c<br />
 
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
