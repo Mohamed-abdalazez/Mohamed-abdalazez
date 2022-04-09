@@ -41,7 +41,14 @@
 ### Let's Play:
 
 <img align="left" alt="C" width="26px" src="https://i.postimg.cc/0jjWXWcM/tabia.png" />
-<img align="left" alt="C" width="26px" src="https://postimg.cc/5jMP94fv" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/8k7xHc3y/horse.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/zBZHcV7n/bishop.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/vHqgdPX8/queen.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/Nf5GRQ7Y/king.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/zBZHcV7n/bishop.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/8k7xHc3y/horse.png" />
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/0jjWXWcM/tabia.png" />
+
 
 
 <br />
