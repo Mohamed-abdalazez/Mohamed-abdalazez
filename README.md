@@ -43,14 +43,6 @@
 <br />
 
 <img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/YqdJtFJz/chess-game.png" />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-[![](https://data.jsdelivr.com/v1/package/npm/chess.js/badge)](https://www.jsdelivr.com/package/npm/chess.js)
 
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
