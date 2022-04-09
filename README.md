@@ -39,7 +39,9 @@
 <br />
 <br />
 
-### Let's Play:
+### let's play chess:
+
+Ask the Queen's permission first by clicking on it :D
 
 <br />
 
