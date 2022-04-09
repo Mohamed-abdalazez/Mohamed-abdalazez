@@ -40,6 +40,8 @@
 
 ### Let's Play:
 
+<img align="left" alt="C" width="26px" src="https://i.postimg.cc/0jjWXWcM/tabia.png" />
+
 <br />
 
 
