@@ -49,7 +49,7 @@
 <br \>
 <br \>
 
-[![chess](https://i.postimg.cc/vHqgdPX8/queen.png)"](https://www.chess.com/member/m-abdalazez)
+[![chess](https://i.postimg.cc/ydjpPgCN/queen.png)"](https://www.chess.com/member/m-abdalazez)
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
