@@ -42,7 +42,7 @@
 
 <br />
 
-<img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/m20fW0Hn/icons8-visual-studio-code-2019-480.png" />
+<img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/YqdJtFJz/chess-game.png" />
 
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
