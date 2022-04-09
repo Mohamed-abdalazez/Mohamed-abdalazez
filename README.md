@@ -42,6 +42,8 @@
 
 <br />
 
+<img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/m20fW0Hn/icons8-visual-studio-code-2019-480.png" />
+
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
