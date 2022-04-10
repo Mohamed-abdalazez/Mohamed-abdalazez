@@ -48,10 +48,8 @@
 ### let's play chess:
 
 
-```diff
-+ hi
-```
-style="color:orange;">Word up</span>
+```diff <br />+ hi```
+
 Ask the ```diff + Queen's permission``` first by clicking on it :D
 
 <br />
