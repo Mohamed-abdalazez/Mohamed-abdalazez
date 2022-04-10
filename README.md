@@ -12,6 +12,7 @@
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
 - 👋 byeBye.
+
 [//]: <> (<img align="" alt="bye" width="150px" src="https://i.postimg.cc/RV7RdVbr/Done.gif" />)
 <img align="" alt="bye" width="200px" src="https://i.postimg.cc/MH8CJFbX/2.jpg" />
 
