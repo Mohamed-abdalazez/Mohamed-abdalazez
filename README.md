@@ -49,7 +49,8 @@
 
 
 ```diff
-+ hi```
++ hi
+```
 
 Ask the ```diff + Queen's permission``` first by clicking on it :D
 
