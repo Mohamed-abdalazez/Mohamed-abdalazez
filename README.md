@@ -49,11 +49,7 @@
 
 
 ```diff
-- text in red
 + text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
 
 Ask the ```diff + Queen's permission``` first by clicking on it :D
