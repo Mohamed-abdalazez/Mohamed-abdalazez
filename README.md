@@ -47,7 +47,8 @@
 
 ### let's play chess:
 
-Ask the ***Queen's permission*** first by clicking on it :D
+```diff
+Ask the (+Queen's permission) first by clicking on it :D
 
 <br />
 
