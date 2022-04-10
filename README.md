@@ -11,8 +11,8 @@
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
-- 👋 byeBye. <img align="" alt="bye" width="300px" src="https://i.postimg.cc/SKtBKGC7/bye.png" />
-
+- 👋 byeBye. 
+<img align="" alt="bye" width="200px" src="https://i.postimg.cc/SKtBKGC7/bye.png" />
 
 [//]: <> (<img align="" alt="bye" width="150px" src="https://i.postimg.cc/RV7RdVbr/Done.gif" />)
 
