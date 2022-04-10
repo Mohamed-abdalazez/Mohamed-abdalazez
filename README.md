@@ -51,7 +51,7 @@
 ```diff
 + hi
 ```
-
+style="color:orange;">Word up</span>
 Ask the ```diff + Queen's permission``` first by clicking on it :D
 
 <br />
