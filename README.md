@@ -5,16 +5,17 @@
 ## Do you want to know more?
 ### **Ok, Let's go :).**
 [//]: <> (<img align="" alt="naruto" width="150px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />)
-<img align="" alt="J" width="200px" src="https://i.postimg.cc/FHsQKwtL/JJK.jpg" />
+<img align="" alt="J" width="300px" src="https://i.postimg.cc/FHsQKwtL/JJK.jpg" />
 
 
 - 🐭 I'm a Founder Of Safaret Land.
 - ♞ I'm playing chess and sometimes playing chess.
 - 🦊 I'm watching anime and sometimes watching anime.
 - 👋 byeBye.
+<img align="" alt="bye" width="300px" src="https://i.postimg.cc/MH8CJFbX/2.jpg" />
+
 
 [//]: <> (<img align="" alt="bye" width="150px" src="https://i.postimg.cc/RV7RdVbr/Done.gif" />)
-<img align="" alt="bye" width="200px" src="https://i.postimg.cc/MH8CJFbX/2.jpg" />
 
 
 ### Let's Hangout 💬 :
