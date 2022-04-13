@@ -44,7 +44,7 @@
 <br />
 <br />
 
-### let's play chess:
+### let's play chess:-
 
 
 - if you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
