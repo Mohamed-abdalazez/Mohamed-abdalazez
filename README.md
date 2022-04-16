@@ -7,7 +7,7 @@
 [//]: <> (<img align="" alt="naruto" width="150px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />)
 [//]: <> (<img align="" alt="J" width="300px" src="https://i.postimg.cc/Kzqy6zdq/JJK.jpg" />)
 [//]: <> (<img align="" alt="J" width="250px" src="https://i.postimg.cc/DynHFykq/uzumaki.png" />)
-<img align="" alt="J" width="250px" src="https://i.postimg.cc/SNWdt776/killua.png" />
+<img align="" alt="J" width="200px" src="https://i.postimg.cc/SNWdt776/killua.png" />
 
 - **```🐭```** ***```I'm a Founder Of Safaret Land.```***
 - **```♟️```** ***```I'm playing chess and sometimes playing chess.```***
