@@ -60,9 +60,10 @@
 <br />
 <br />
 
-### let's remember Uchiha Itachi :')
+### let's drink coffee in Tokyo:)
 
-<img align="" alt="Uchiha Itachi" width="150px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />
+[//]: <> (<img align="" alt="Uchiha Itachi" width="150px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />)
+<img align="" alt="Uchiha Itachi" width="150px" src="https://i.postimg.cc/X7z5Lrtf/Juuzou-Suzuya.png" />
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
