@@ -3,7 +3,7 @@
 
 
 ## Do you want to know more?
-### **Ok, Let's go :).**
+### **Ok, Let's go-attebayo :).**
 [//]: <> (<img align="" alt="naruto" width="150px" src="https://i.postimg.cc/Fs5zhSZZ/5.gif" />)
 [//]: <> (<img align="" alt="J" width="300px" src="https://i.postimg.cc/Kzqy6zdq/JJK.jpg" />)
 [//]: <> (<img align="" alt="J" width="250px" src="https://i.postimg.cc/DynHFykq/uzumaki.png" />)
