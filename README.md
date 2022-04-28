@@ -50,7 +50,7 @@
 ### let's play chess:-
 
 
-- if you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
+- If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
 - Ask the ***```Queen's permission```*** first by clicking on it **:D**.
 
 <br />
