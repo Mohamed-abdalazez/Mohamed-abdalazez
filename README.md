@@ -28,11 +28,6 @@
 
 <br />
 
-
-
-<br />
-<br />
-
 ### let's play chess:-
 
 
