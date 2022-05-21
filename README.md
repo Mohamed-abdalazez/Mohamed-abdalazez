@@ -28,6 +28,7 @@
 
 <br />
 
+[//]: <> (
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://i.postimg.cc/9MR76H2M/icons8-c-96.png" />
@@ -43,7 +44,7 @@
 <img align="left" alt="git" width="26px" src="https://i.postimg.cc/W1R3YqWQ/icons8-git-480.png" />
 <img align="left" alt="github" width="26px" src="https://i.postimg.cc/0r1snDkn/icons8-github-240.png" />
 <img align="left" alt="vs code" width="26px" src="https://i.postimg.cc/m20fW0Hn/icons8-visual-studio-code-2019-480.png" />
-
+)
 <br />
 <br />
 
