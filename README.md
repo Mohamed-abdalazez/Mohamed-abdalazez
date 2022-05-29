@@ -28,7 +28,7 @@
 
 <br />
 
-### let's play chess:-
+### Let's play chess:-
 
 
 - If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-### let's drink a coffee in ***```Tokyo```***:).
+### Let's drink a coffee in ***```Tokyo```***:).
 
 [//]: <> (<img align="" alt="Uchiha Itachi" width="300px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />)
 <img align="" alt="Uchiha Itachi" width="300px" src="https://i.postimg.cc/X7z5Lrtf/Juuzou-Suzuya.png" />
