@@ -36,7 +36,7 @@
 
 <br />
 
-<img align="left" alt="vs code" width="150px" src="https://i.postimg.cc/nhNbNjvZ/hobby.png" />
+<img align="left" alt="vs code" width="200px" src="https://i.postimg.cc/nhNbNjvZ/hobby.png" />
 
 [![chess](https://i.postimg.cc/rsKmy480/queen-2.png)](https://www.chess.com/member/m-abdalazez)
 
