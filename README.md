@@ -44,7 +44,7 @@
 <br />
 <br />
 
-### Let's drink a coffee in ***```Anteiku```***:).
+### Let's drink a coffee in ***```Anteiku```***:D.
 
 [//]: <> (<img align="" alt="Uchiha Itachi" width="300px" src="https://i.postimg.cc/Jh7WWBcb/icons8-itachi-uchiha-480.png" />)
 <img align="" alt="Uchiha Itachi" width="300px" src="https://i.postimg.cc/X7z5Lrtf/Juuzou-Suzuya.png" />
