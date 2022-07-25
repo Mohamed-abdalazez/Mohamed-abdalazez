@@ -14,14 +14,14 @@
 - **```🐭```** ***```I'm a Founder Of Safaret Land.```***
 - **```♟️```** ***```I'm playing chess and sometimes playing chess.```***
 - **```🦊```** ***```I'm watching anime and sometimes watching anime.```***
-- **```🐭```** ***```I hope the rats live in peace in this world.```***
+- **```🐀```** ***```I hope the rats live in peace in this world.```***
 - **```👋```** ***```byeBye.```***
 <img align="" alt="bye" width="300px" src="https://i.postimg.cc/W1hnr8MT/byebye.png" />
 
 [//]: <> (<img align="" alt="bye" width="150px" src="https://i.postimg.cc/RV7RdVbr/Done.gif" />)
 [//]: <> (<img align="" alt="bye" width="300px" src="https://i.postimg.cc/HsjLkGz8/bye.png" />)
 
-### Let's Hangout 👻 :
+### Let's Hangout 🐈‍⬛ :
 
 [<img align="left" alt="Mohamed | Facebook" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
