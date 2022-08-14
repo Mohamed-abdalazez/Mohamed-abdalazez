@@ -39,15 +39,6 @@
 
 [![chess](https://i.postimg.cc/rsKmy480/queen-2.png)](https://www.chess.com/member/m-abdalazez)
 
-<br />
-<br />
-
-
-
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
 [Chess]: https://www.chess.com/member/m-abdalazez
-
-
-
-
