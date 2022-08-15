@@ -35,11 +35,10 @@
 
 
 - If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
-- Ask the ***```Queen's permission```*** first by clicking on it **:D**.
+- Click on your ***```favourite piece```*** and let's play together.
 
-<br />
+[<img align="left" alt="Mohamed | mo" width="350px" src="assets/chessBlack.svg" />][Chess]
 
-[![chess](https://i.postimg.cc/rsKmy480/queen-2.png)](https://www.chess.com/member/m-abdalazez)
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
