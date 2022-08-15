@@ -27,7 +27,7 @@
 
 [<img align="left" alt="Mohamed | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<img src="mo-abdalazez-website/src/images/Icon2.svg" width="60px"/>
 
 ### Let's play chess:-
 
