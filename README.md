@@ -1,4 +1,4 @@
-### Hi there, I'm ***```Mohamed```*** And Sometimes ***```Abdalazez```*** 👋 
+### Hi there, I'm ***```Mohamed```*** And Sometimes ***```Abdalazez```***:D
 
 
 
@@ -11,11 +11,11 @@
 [//]: <> (<img align="" alt="J" width="200px" src="https://i.postimg.cc/ryY84nwt/pngfind-com-naruto-png-573494.png" />)
 
 
-- **```🐭```** ***```I'm a Founder Of Safaret Land.```***
-- **```♟️```** ***```I'm playing chess and sometimes playing chess.```***
-- **```🦊```** ***```I'm watching anime and sometimes watching anime.```***
-- **```🐀```** ***```I hope the rats live in peace in this world.```***
-- **```👋```** ***```byeBye.```***
+-  ***```I'm a Founder Of Safaret Land.```***
+-  ***```I'm playing chess and sometimes playing chess.```***
+-  ***```I'm watching anime and sometimes watching anime.```***
+-  ***```I hope the rats live in peace in this world.```***
+-  ***```byeBye.```***
 
 [//]: <> (<img align="" alt="bye" width="300px" src="https://i.postimg.cc/W1hnr8MT/byebye.png" />)
 [//]: <> (<img align="" alt="bye" width="150px" src="https://i.postimg.cc/RV7RdVbr/Done.gif" />)
