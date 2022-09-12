@@ -17,7 +17,7 @@
 
 [<img align="left" alt="Mohamed | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Mohamed | mo" width="60px" src="assets/mo.svg" />][mo]
+[<img align="left" alt="Mohamed | mo" width="65px" src="assets/mo.svg" />][mo]
 
 <br/>
 
