@@ -32,4 +32,4 @@
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
 [Chess]: https://www.chess.com/member/m-abdalazez
-[mo]: http://moabdelaziz.com/
+[mo]: https://moabdelaziz.com/
