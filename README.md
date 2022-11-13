@@ -31,5 +31,5 @@
 
 [facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
 [linkedin]: https://www.linkedin.com/in/mohamed818/
-[Chess]: https://www.chess.com/member/m-abdalazez
+[Chess]: https://www.chess.com/member/mo-abdelaziz
 [mo]: https://www.moabdelaziz.com/
