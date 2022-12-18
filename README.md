@@ -1,5 +1,4 @@
 #### Hi there, I'm ***```Mohamed```*** And Sometimes ***```Abdelaziz```***:D
-
 -  ***```I'm a Founder Of Safaret Land.```***
 -  ***```I'm playing chess and sometimes playing chess.```***
 -  ***```I'm watching anime and sometimes watching anime.```***
@@ -7,7 +6,6 @@
 -  ***```byeBye.```***
 
 ##### Let's Hangout 👀:
-
 [<img align="left" alt="Mohamed | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [<img align="left" alt="Mohamed | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +15,6 @@
 <br/>
 
 ##### Let's play chess:-
-
 - If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
 - ***```chess.com```*** or ***```lichess```*** .
 <!-- - Click on your ***```favourite piece```*** and let's play together. -->
