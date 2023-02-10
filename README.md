@@ -5,15 +5,6 @@
 -  ***```I hope the rats live in peace in this world.```***
 -  ***```byeBye.```***
 
-##### Let's Hangout 👀:
-[<img align="left" alt="Mohamed | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-[<img align="left" alt="Mohamed | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Mohamed | mo" width="65px" src="assets/mo.svg" />][mo]
-
-<br/>
-
 ##### Let's play chess:-
 - If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
 - ***```chess.com```*** or ***```lichess```*** .
