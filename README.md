@@ -1,21 +1,8 @@
-#### Hi there, I'm ***```Mohamed```*** And Sometimes ***```Abdelaziz```***:D
--  ***```I'm a Founder Of Safaret Land.```***
--  ***```I'm playing chess and sometimes playing chess.```***
--  ***```I'm watching anime and sometimes watching anime.```***
--  ***```I hope the rats live in peace in this world.```***
--  ***```byeBye.```***
+### Mohamed Abdelaziz
 
-##### Let's play chess:-
-- If you wanna play with me, I know a board and I can take you for ***```checkmate```*** xD.
-- ***```chess.com```*** or ***```lichess```*** .
-<!-- - Click on your ***```favourite piece```*** and let's play together. -->
+[![moabdelaziz](https://img.shields.io/badge/moabdelaziz.com-100000?style=for-the-badge&logo=&logoColor=black)](https://www.moabdelaziz.com/)
 
-[<img align="left" alt="Mohamed | mo" width="50px" src="assets/Chess.com.svg" />][Chess.com]
-[<img align="" alt="Mohamed | mo" width="50px" src="assets/lichess.svg" />][lichess]
+A fresh graduate computer science major student from the Arab Academy for Science, Technology, and Maritime Transport (AASTMT). I am passionate about backend development using Node.js, cloud computing, and bash scripting.
+I am also a chess player, and my rating is ***```1500```*** on [chess.com](https://www.chess.com/member/mo-abdelaziz).
 
 
-[facebook]: https://www.facebook.com/mohamed.abdalazez.9678/
-[linkedin]: https://www.linkedin.com/in/mohamed818/
-[Chess.com]: https://www.chess.com/member/mo-abdelaziz
-[lichess]: https://lichess.org/@/M-Abdalazez
-[mo]: https://www.moabdelaziz.com/
