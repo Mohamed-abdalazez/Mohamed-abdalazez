@@ -1,8 +1,10 @@
-### Mohamed Abdelaziz
 
-[![moabdelaziz](https://img.shields.io/badge/moabdelaziz.com-100000?style=for-the-badge&logo=&logoColor=black)](https://www.moabdelaziz.com/)
-
-I'm deeply passionate about open-source projects. I love learning and am dedicated to the world of Linux. I enjoy tackling tough challenges and continuously work to become an expert in Linux and DevOps.
-I am also a chess player, and my rating in rapid chess is ***```1600```*** on [chess.com](https://www.chess.com/member/mo-abdelaziz).
+<!-- [![moabdelaziz](https://img.shields.io/badge/moabdelaziz.com-100000?style=for-the-badge&logo=&logoColor=black)](https://www.moabdelaziz.com/) -->
+##### Hi There I'm Mohamed Abdelaziz.
+*Sometimes, I need ```pomegranate``` juice, ```pomegranate``` fruit, or anything related to ```pomegranates``` to feel better :).*
 
 
+```
+I hang out in the Free/Open Source world, interested in tinkering with Linux systems, and I love it.
+When I'm not doing that, you can find me playing on the green site, Chess.com.
+```
