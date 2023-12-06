@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/pomegranate.png">
-  <br><br>
+  <img src="assets/pomegranate.png"  width="50px" height="50px">
+  <br>
   <samp>
     Hi There I'm Mohamed Abdelaziz
     <br>Sometimes, I need pomegranate juice, pomegranate fruit, or anything related to pomegranates to feel better :).<br><br>
