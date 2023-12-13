@@ -6,6 +6,6 @@
     <br>Sometimes, I need pomegranate juice, pomegranate fruit, or anything related to pomegranates to feel better :).<br><br>
   </samp>
    <samp>
- I hang out in the Free/Open Source world, interested in tinkering with Linux systems, and I love it.When I'm not doing that, you can find me playing on the green site, Chess.com.
+  I am currently playing with Linux, Docker, K8s, Jenkins, and other DevOps-related tools. When I'm not doing that, you can find me playing on <a href="https://www.chess.com/member/mo-abdelaziz">chess.com</a>.
   </samp>  
 </p>
